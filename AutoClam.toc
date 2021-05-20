@@ -1,0 +1,9 @@
+## Interface: 20501
+## Title: AutoClam
+## Notes: Opens all clams automagically.
+## Author: Pipsqueak
+## Version: 1.0 TBC
+
+AutoClam.lua
+
+libs.xml
